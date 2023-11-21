@@ -1,0 +1,11 @@
+{
+    "produtos": [
+        {
+            "img": "../../assets/cafe.jpg",
+            "nome": "Cafe",
+            "descricao": "Cafe muito bom",
+            "id": 1,
+            "valor": 20
+        }
+    ]
+}
